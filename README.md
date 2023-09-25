@@ -6,6 +6,7 @@ A practicing project for microservices.
 - Docker
 - Kubernetes
 - React
+- Express
 
 ## Features
 - Microservices
