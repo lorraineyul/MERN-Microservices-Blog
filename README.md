@@ -1,4 +1,5 @@
 # Blog
+A practicing project for microservices.
 
 ## Tech Stack
 - JavaScript
