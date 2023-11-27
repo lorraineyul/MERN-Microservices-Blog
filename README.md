@@ -1,5 +1,5 @@
 # Blog
-A practicing project for microservices.
+A practicing project for microservices, compose of posts service and comments service.
 
 ## Tech Stack
 - JavaScript
